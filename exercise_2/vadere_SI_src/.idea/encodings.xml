@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/VadereAnnotation/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereGui/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereGui/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereManager/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereManager/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereMeshing/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereMeshing/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereSimulator/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereSimulator/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereState/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereUtils/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VadereUtils/src" charset="UTF-8" />
+  </component>
+</project>

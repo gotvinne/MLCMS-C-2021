@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotation" />
+        <module name="simulator" />
+        <module name="meshing" />
+        <module name="manager" />
+        <module name="utils" />
+        <module name="gui" />
+        <module name="state" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotation" target="1.5" />
+      <module name="gui" target="1.5" />
+      <module name="manager" target="1.5" />
+      <module name="meshing" target="1.5" />
+      <module name="simulator" target="1.5" />
+      <module name="state" target="1.5" />
+      <module name="utils" target="1.8" />
+      <module name="vadere" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

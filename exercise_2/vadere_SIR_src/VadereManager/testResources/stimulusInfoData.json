@@ -1,0 +1,18 @@
+{
+  "stimulusInfos" : [ {
+    "timeframe" : {
+      "startTime" : 1.0,
+      "endTime" : 49.0,
+      "repeat" : false,
+      "waitTimeBetweenRepetition" : 0.0
+    },
+    "stimuli" : [ {
+      "type" : "Wait",
+      "id" : -1
+    } ]
+  } ],
+  "reactionProbabilities" : [ {
+    "stimulusId" : -1,
+    "reactionProbability" : 0.75
+  } ]
+}

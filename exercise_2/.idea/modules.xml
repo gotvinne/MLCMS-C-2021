@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vadere_source1/VadereAnnotation/annotation.iml" filepath="$PROJECT_DIR$/vadere_source1/VadereAnnotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercise_2.iml" filepath="$PROJECT_DIR$/.idea/exercise_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadere_source1/VadereGui/gui.iml" filepath="$PROJECT_DIR$/vadere_source1/VadereGui/gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadere_source1/VadereManager/manager.iml" filepath="$PROJECT_DIR$/vadere_source1/VadereManager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadere_source1/VadereMeshing/meshing.iml" filepath="$PROJECT_DIR$/vadere_source1/VadereMeshing/meshing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadere_source1/VadereSimulator/simulator.iml" filepath="$PROJECT_DIR$/vadere_source1/VadereSimulator/simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadere_source1/VadereState/state.iml" filepath="$PROJECT_DIR$/vadere_source1/VadereState/state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadere_source1/VadereUtils/utils.iml" filepath="$PROJECT_DIR$/vadere_source1/VadereUtils/utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vadere_source1/vadere.iml" filepath="$PROJECT_DIR$/vadere_source1/vadere.iml" />
+    </modules>
+  </component>
+</project>
